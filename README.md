@@ -1,6 +1,6 @@
 # IoT Edge Module that reads from Oracle Server using a static PL/SQL query
 
-This module use Environmental variables, you can set them in the deployment manifest. Deplyment manifest extract:
+This module use Environmental variables, you can set them in the deployment manifest. Deployment manifest extract:
 
 ```json
 "OracleReaderModule": {
